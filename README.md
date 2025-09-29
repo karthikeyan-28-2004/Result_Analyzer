@@ -20,11 +20,3 @@ A Python project to analyze student marks, calculate totals, averages, grades, a
 - **Matplotlib** – Data visualization  
 
 ---
-
-## How to Run
-
-1. Make sure you have Python installed.  
-2. Install required libraries:
-
-```bash
-pip install pandas matplotlib
